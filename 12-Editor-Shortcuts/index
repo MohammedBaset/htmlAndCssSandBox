@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML and CSS SandBox</title>
+  </head>
+  <body>
+
+    <!-- Open command palatte ctrl+shift+p-->
+    <!-- Toggle explorer ctrl+b -->
+    <!-- Toggle terminal ctrl+j -->
+    <!-- Search in file ctrl+f -->
+    <!-- New window ctrl+shift+n -->
+    <!-- Reopen tab ctrl+shift+t -->
+    <!-- Switch tab ctrl+tab -->
+    <!-- Select Next ctrl+d -->
+    <!-- Comment out a line ctrl+/ -->
+    <!-- Select all within tag ctrl+w -->
+    <!-- Insert a line below ctrl+enter -->
+    <!-- Insert a line above ctrl+shift+enter -->
+    <!-- Search all file ctrl+shift+f -->
+    Select all Instance ctrl+shift+l
+    <!-- Close file/tab ctrl+w -->
+    <!-- Move lines alt+up and down key -->
+    <!-- Copy down shift+alt+downarrow -->
+    <!-- Move cursor by word alt+arrow -->
+    <!-- shift+End and Shift+Home select line -->
+    <!-- move to beginning or end Home and End keys -->
+    <!-- Save: ctrl+s, Undo: ctrl+z, Redo: ctrl+y,
+          Cut: ctrl+x, Paste: ctrl+p -->
+  </body>
+</html>
