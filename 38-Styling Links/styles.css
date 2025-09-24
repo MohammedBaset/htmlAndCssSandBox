@@ -1,0 +1,25 @@
+body {
+  font-family: poppins, sans-serif;
+}
+
+/* Regular Link */
+a {
+  text-decoration: none;
+  color: #333;
+}
+/* Hover State */
+a:hover {
+  color: red;
+}
+/* Active State */
+a:active {
+  background: purple;
+}
+/* Focus State */
+a:focus {
+background: yellow;
+}
+/* Visited State */
+a:visited {
+  color: coral;
+}
